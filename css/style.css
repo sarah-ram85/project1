@@ -128,3 +128,26 @@ footer{
     background-color: #111827;
     color: #ffffff;
 }
+
+footer a {
+    color: #ffffff;
+    display: -webkit-flex;
+    display: flex;
+}
+
+footer ul li {
+    list-style-type: none;
+    display: inline-block;
+    padding: 5px 25px 5px;
+}
+
+#footerText {
+    -webkit-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
+}
+
+#footerNav {
+    display: flex;
+    justify-content: flex-end;
+}
