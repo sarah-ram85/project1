@@ -61,6 +61,58 @@ main{
     width: 100%;
 }
 
+section {
+    padding: 32px;
+    margin: 20px 0px 20px;
+}
+
+.shadow {
+    box-shadow: 10px 10px 5px lightgray;
+    border: 1px solid gray;
+    border-radius: 20px;
+}
+
+#heroIcon {
+    background-color: #1d4ed8;
+    border-radius: 10px;
+    font-size: 80px;
+
+    margin: 0;
+    height: 200px;
+    text-align: center;
+}
+
+.circleBlue {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;background-color: #1d4ed8;
+    text-align: center;
+    font-size: 60px;
+    margin: 0%;
+    padding: 0%;
+}
+
+.circleGreen {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    background-color: #15803d;
+    text-align: center;
+    font-size: 60px;
+    margin: 0%;
+    padding: 0%;
+}
+
+.circlePurple {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    background-color: #7e22ce;
+    text-align: center;
+    font-size: 60px;
+    margin: 0%;
+    padding: 0%;
+}
 
 
 
