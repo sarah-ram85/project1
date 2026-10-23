@@ -38,14 +38,10 @@ nav ul li {
 
 
 
-
-
 main{
     width: 1440px;
     margin: 0 auto;
 }
-
-
 
 
 .flexContainer {
@@ -114,14 +110,16 @@ section {
     padding: 0%;
 }
 
-
-
-
-
-
-
-
-
+.circleOrange {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    background-color: #ea580c;
+    text-align: center;
+    font-size: 60px;
+    margin: 0%;
+    padding: 0%;
+}
 
 footer{
     padding: 20px 150px 20px;
