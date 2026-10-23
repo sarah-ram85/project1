@@ -152,7 +152,7 @@ footer ul li {
     justify-content: flex-end;
 }
 
-.listCheckmark{
+.listCheckmark {
     list-style: none;
     margin: 25px;
 }
@@ -161,5 +161,20 @@ ul.listCheckmark li:before {
     content: "✓";
     font-weight: bold;
     left: -25px;
+}
 
+button {
+    background-color: #1d4ed8;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #111827;
 }
