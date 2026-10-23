@@ -72,10 +72,27 @@ section {
     background-color: #1d4ed8;
     border-radius: 10px;
     font-size: 80px;
-
     margin: 0;
     height: 200px;
     text-align: center;
+    fle
+}
+
+#booksIcon {
+    background-color: #1d4ed8;
+    border-radius: 10px;
+    font-size: 80px;
+    margin: 0;
+    height: 300px;
+    text-align: center;
+    width: 404px;
+    height: 300px;
+    position: absolute;
+    top: 417px;
+    left: 198px;
+    border: 1px solid #888;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
 }
 
 .circleBlue {
