@@ -49,6 +49,7 @@ main{
     display: flex;
     gap: 20px;
     align-items: center;
+    justify-content: center; 
 }
 
 .flexItem {
@@ -211,4 +212,29 @@ ul.listPoint li:before {
 }
 button:hover {
     background-color: #111827;
+}
+
+.centerText {
+    text-align: center;
+}
+
+.boxBlue {
+    background-color: #1d4ed8;
+    border-radius: 20px;
+    padding: 20px;
+    color: white;
+}
+
+.boxPurple {
+    background-color: #7e22ce;
+    border-radius: 20px;
+    padding: 20px;
+    color: white;
+}
+
+.boxGreen {
+    background-color: #15803d;
+    border-radius: 20px;
+    padding: 20px;
+    color: white;
 }
