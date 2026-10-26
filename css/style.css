@@ -243,8 +243,3 @@ button:hover {
     margin-right: 20px;
     flex-grow: 1;
 }
-
-.right-section {
-    float: right
-    width: 30%;
-}
