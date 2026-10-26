@@ -244,3 +244,7 @@ button:hover {
     flex-grow: 1;
 }
 
+.right-section {
+    float: right
+    width: 30%;
+}
